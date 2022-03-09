@@ -1,16 +1,2 @@
-# app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI of Foodizm App![Screenshot_1645472549](https://user-images.githubusercontent.com/95920827/157424173-1c2372e3-c4d6-4d50-8413-ceaf04bf4364.png)
+![Screenshot_1645468629](https://user-images.githubusercontent.com/95920827/157424187-9b855d90-b193-4a23-b9c9-cf6913ffdb8d.png)
